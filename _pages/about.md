@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a>. Department of Computer Science and Engineering, IIIT Dharwad. email-girish@iiitdwd.ac.in
+subtitle: <a href='#'> Assistant Professor, Department of Computer Science and Engineering, IIIT Dharwad</a>
 
 profile:
   align: right
   image: DSC_8580.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>F-124, e-Block</p>
     <p>Indian Institute of Information Technology Dharwad</p>
