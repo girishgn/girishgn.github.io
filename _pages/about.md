@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Assistant Professor</a>. Department of Computer Science and Engineering, IIIT Dharwad. email: girish@iiitdwd.ac.in
 
 profile:
   align: right
