@@ -1,18 +1,21 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Analysis of Optical Coherence Tomography Scans
+description: Retinal OCT Image Analysis
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Optical Coherence Tomography (OCT) is a non-invasive imaging technique that provides high-resolution cross-sectional images of the retina. It uses low-coherence light to measure the echo time delay of light reflected from different retinal layers, creating detailed images crucial for diagnosing and managing various eye conditions. OCT is widely used to assess retinal structures, enabling early detection and monitoring of eye diseases such as:
+Age-Related Macular Degeneration (AMD),
+Diabetic Retinopathy (DR),
+Glaucoma,
+Macular Edema, and Retinal Detachments.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In this project, we have developed several methods for Retinal OCT Layer Segmentation, Retinal Fluid Segmentation, Retinal OCT scans Enancement through denoising, and Retinal OCT Image Synthesis.
+
 
     ---
     layout: page
