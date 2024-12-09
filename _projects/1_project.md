@@ -7,6 +7,7 @@ video: assets/video/
 importance: 1
 category: work
 related_publications: true
+giscus_comments: true
 ---
 
 Optical Coherence Tomography (OCT) is a non-invasive imaging technique that provides high-resolution cross-sectional images of the retina. It uses low-coherence light to measure the echo time delay of light reflected from different retinal layers, creating detailed images crucial for diagnosing and managing various eye conditions. OCT is widely used to assess retinal structures, enabling early detection and monitoring of eye diseases such as:
