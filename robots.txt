@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://girish.github.io/sitemap.xml
+Sitemap: https://girishgn.github.io/sitemap.xml
