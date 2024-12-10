@@ -86,12 +86,12 @@
     {
       "title": "Postdoctoral Fellowship",
       "date": "2019",
-      "awarder": "Harvard Medical School",
-    }
+      "awarder": "Harvard Medical School"
+    },
     {
       "title": "MHRD PhD Fellowship",
       "date": "2014",
-      "awarder": "Ministry of Education, Govt. of India",
+      "awarder": "Ministry of Education, Govt. of India"
     }
   ],
  
@@ -102,32 +102,28 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
       ]
-    }
-    
+    },    
     {
       "name": "Deep Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
       ]
-    }
-    
+    },    
     {
       "name": "Medical Image Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
       ]
-    }
-    
+    },
     {
       "name": "Optical Coherence Tomography",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
       ]
-    }
-    
+    },
     {
       "name": "Underwater Image Analysis",
       "level": "Master",
