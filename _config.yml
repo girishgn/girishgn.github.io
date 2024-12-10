@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-Web Stats by <a href="https://info.flagcounter.com/A1A7"><img src="https://s05.flagcounter.com/count2/A1A7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_14/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/A1A7"><img src="https://s05.flagcounter.com/count2/A1A7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_14/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
