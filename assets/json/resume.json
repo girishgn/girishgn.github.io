@@ -75,7 +75,7 @@
       "institution": "National Insitute of Technology Karnataka",
       "location": "Surathkal, India",
       "url": "https://www.nitk.ac.in/",
-      "Branch": "Computer Science and Engineering"
+      "Branch": "Computer Science and Engineering",
       "area": "Medical Image Analysis",
       "studyType": "PhD",
       "startDate": "2014",
@@ -84,26 +84,57 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Postdoctoral Fellowship",
+      "date": "2019",
+      "awarder": "Harvard Medical School",
+    }
+    {
+      "title": "MHRD PhD Fellowship",
+      "date": "2014",
+      "awarder": "Ministry of Education, Govt. of India",
     }
   ],
  
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      ]
+    }
+    
+    {
+      "name": "Deep Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    }
+    
+    {
+      "name": "Medical Image Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    }
+    
+    {
+      "name": "Optical Coherence Tomography",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      ]
+    }
+    
+    {
+      "name": "Underwater Image Analysis",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Enhancement",
+        "Aquatic Animal Classification"
       ]
     }
   ],
