@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-12-10 07:59:00-0400
-inline: true
+inline: false
 title: Will be delivering a session on "Introduction to Healthcare Challenges and AI Solutions"
 related_posts: false
 ---
