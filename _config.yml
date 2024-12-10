@@ -10,7 +10,6 @@ email: girish@iiitdwd.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Web Stats by <a href="https://info.flagcounter.com/A1A7"><img src="https://s05.flagcounter.com/count2/A1A7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_14/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -114,8 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+Web Stats by <a href="https://info.flagcounter.com/A1A7"><img src="https://s05.flagcounter.com/count2/A1A7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_14/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
