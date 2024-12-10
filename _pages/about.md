@@ -9,9 +9,11 @@ profile:
   image: DSC_8580.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>Contact Information:</p>
     <p>F-124, e-Block</p>
-    <p>Indian Institute of Information Technology Dharwad</p>
-    <p>Ittigatti Road, Dharwad, India 580009</p>
+    <p>IIIT Dharwad</p>
+    <p>Ittigatti Road, Dharwad, India-580009</p>
+    <p>Email: girish@iiitdwd.ac.in</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
