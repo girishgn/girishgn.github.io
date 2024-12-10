@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-12-10 15:59:00-0400
-inline: true
+inline: false
 title: Participated in Bengaluru Tech Summit 2024, a global platform for showcasing technology, innovation, and research excellence
 related_posts: false
 ---
