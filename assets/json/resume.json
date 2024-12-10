@@ -111,12 +111,17 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Kannada",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+     {
+      "language": "Telugu",
       "fluency": "Fluent",
       "icon": ""
     }
