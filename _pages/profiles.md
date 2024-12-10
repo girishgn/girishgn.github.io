@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members of the Medical Image Analysis Group
 nav: true
 nav_order: 7
