@@ -80,9 +80,7 @@
       "studyType": "PhD",
       "startDate": "2014",
       "endDate": "2018",
-      <!--- "score": "10",
-      "courses": ["Theory of Relativity"] --->
-    }
+     }
   ],
   "awards": [
     {
