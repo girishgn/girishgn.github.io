@@ -14,9 +14,9 @@ Optical Coherence Tomography (OCT) is a non-invasive imaging technique that prov
 Age-Related Macular Degeneration (AMD),
 Diabetic Retinopathy (DR),
 Glaucoma,
-Macular Edema, and Retinal Detachments.
+Macular Edema and Retinal Detachments.
 
-In this project, we have developed several methods for Retinal OCT Layer Segmentation, Retinal Fluid Segmentation, Retinal OCT scans Enancement through denoising, and Retinal OCT Image Synthesis.
+In this project, we have developed several methods for Retinal OCT Layer Segmentation, Retinal Fluid Segmentation, Retinal OCT scans Enhancement through denoising, and Retinal OCT Image Synthesis.
 
 
     ---
@@ -31,8 +31,8 @@ In this project, we have developed several methods for Retinal OCT Layer Segment
     
 </div>
     ---
-    <div class="caption">
-Depthwise Separable Convolutional Network for Retinal OCT Fluid Segmentation Architecture {% cite girish2019depthwise %} .
+<div class="caption">
+Depthwise Separable Convolutional Network for Retinal OCT Fluid Segmentation Architecture {% cite girish2019depthwise %}.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
